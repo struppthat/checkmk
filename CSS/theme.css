@@ -5989,7 +5989,7 @@ div.stats_dashlet path.hexagon.host_down {
 div.alert_overview path.hexagon.ok,
 div.site_overview path.hexagon.ok,
 div.stats_dashlet path.hexagon.ok {
-    fill: #13d389; /*server Statistics*/
+    fill: #13d389;
     fill-opacity: .06;
     stroke: #13d389;
     stroke-opacity: .9
@@ -6012,10 +6012,7 @@ div.site_overview path.hexagon.host_element.ok,
 div.stats_dashlet g.element_box.host_element path.hexagon.ok,
 div.stats_dashlet path.hexagon.host_element.ok {
     fill: #13d389; /*host overview*/
-    fill-opacity: .06;
-    stroke: #13d389;
-    stroke-opacity: .9
-    /*stroke: none*/
+    stroke: none
 }
 
 div.alert_overview g.element_box.host_element path.hexagon.ok+path.up:hover,
