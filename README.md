@@ -1,2 +1,2 @@
 # checkmk
-collection of checkmk tweaks
+Collection of my Checkmk Tweaks, either visual or functional
