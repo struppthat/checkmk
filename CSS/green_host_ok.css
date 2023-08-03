@@ -1,0 +1,9 @@
+div.alert_overview g.element_box.host_element path.hexagon.ok,
+div.alert_overview path.hexagon.host_element.ok,
+div.site_overview g.element_box.host_element path.hexagon.ok,
+div.site_overview path.hexagon.host_element.ok,
+div.stats_dashlet g.element_box.host_element path.hexagon.ok,
+div.stats_dashlet path.hexagon.host_element.ok {
+    fill: #13d389; !important
+    stroke: none
+}
