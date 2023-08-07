@@ -7,3 +7,5 @@ Place the green_host_ok.css in  ```/omd/sites/monitoring/local/share/check_mk/we
 ![preview of new Hostoverview](https://i.imgur.com/XuTCtow.png)
 
 This could be implemented as a new theme, however there seem to be some dependencies outside of CSS that will change the legends on graphs to black and make them illegible
+
+https://forum.checkmk.com/t/manager-asked-for-a-bit-more-color/40371/10
